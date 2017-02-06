@@ -143,13 +143,13 @@ button.devices {
 .reset,
 input[type="button"] {
 	cursor: pointer;
-	background-image: url( '../images/button.jpg' ); 
+	background-image: url( 'http://i.imgur.com/ChamrEi.jpg' ); 
 	color: #fff;
 }
 .reset:hover,
 input[type="button"]:hover,
 .active-btn { 
-	background-image: url( '../images/button-hover.jpg' )!important; 
+	background-image: url( 'http://i.imgur.com/yJWyZUp.jpg' )!important; 
 }
 .center {
 	text-align: center;
