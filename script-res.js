@@ -90,9 +90,9 @@ jQuery( document ).ready( function( $ ){
 		$( this ).toggleClass( 'active-btn' );
 	});  
 	$( '#submit' ).mouseenter( function(){  
-	  	$( this ).attr( 'src', 'images/view-hover.jpg' );
+	  	$( this ).attr( 'src', 'http://i.imgur.com/8DJ3dYd.jpg' );
 	}).mouseleave( function(){  
-	  	$( this ).attr( 'src', 'images/view.jpg' );
+	  	$( this ).attr( 'src', 'http://i.imgur.com/SLhiYxc.jpg' );
 	}); 
 	var width = $( '#width' ).attr( 'value' );
 	var height = $( '#height' ).attr( 'value' );
